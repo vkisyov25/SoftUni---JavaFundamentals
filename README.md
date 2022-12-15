@@ -7,7 +7,7 @@ With PS001,2,3... are marked the tasks from ex.
 With PS001ME,2ME,3ME... are marked the tasks from more exercise.
 
 
-in this course I studied the following topics:
+In this course I studied the following topics:
 
 Resources
 
